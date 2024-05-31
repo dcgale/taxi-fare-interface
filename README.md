@@ -64,3 +64,7 @@ git push origin gh-pages
 ```
 
 Your app will be visible shortly at `https://dcgale.github.io/taxi-fare-interface`.
+
+[check it out!](https://dcgale.github.io/taxi-fare-interface)
+
+
